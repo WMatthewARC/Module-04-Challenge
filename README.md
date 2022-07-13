@@ -15,4 +15,5 @@ Further down we took a look at the budgets of those schools next to their test a
 Clearly my public school failed me. As I can't. figure out how to fix my Summary table “Scores by school spending”. But that one small table aside. “Scores by size” and “overall summary of scores” by type, reiterates what we thought all along. Charter schools perform better and they have a higher overall passing %... the goal of a school is not to get to 100 there must be a standard in place. However, with 50% overall passing rate from the district school shows us that there's a lot of distractions there. Not everybody in class may see education as a priority. Or maybe that larger classroom is not helping our quick to loses interest types… Also, Districts takes a heavy hit in % passing Math. Clearly spending ranges and additional columns are trouble in the public district school.  Says yours truly! 
 
 Thank you for your time.
-Analyst Eill Will aka William Matthew Mills
+Analyst Eill Will 
+aka William Matthew Mills
