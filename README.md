@@ -16,6 +16,3 @@ Clearly my public school failed me. As I can't. figure out how to fix my Summary
 
 Thank you for your time,
 
-
-Analyst Eill Will 
-aka William Matthew Mills
